@@ -1,0 +1,9 @@
+E:\GitHub\GameTicketFiller\GameTicketFiller\bin\Debug\GameTicketFiller.exe.config
+E:\GitHub\GameTicketFiller\GameTicketFiller\bin\Debug\GameTicketFiller.exe
+E:\GitHub\GameTicketFiller\GameTicketFiller\bin\Debug\GameTicketFiller.pdb
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.Form1.resources
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.Properties.Resources.resources
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.csproj.GenerateResource.Cache
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.exe
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.pdb
+E:\GitHub\GameTicketFiller\GameTicketFiller\obj\Debug\GameTicketFiller.csprojResolveAssemblyReference.cache
